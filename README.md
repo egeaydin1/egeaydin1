@@ -29,7 +29,6 @@ education:
   - 42 Istanbul                                        (2025 – present)
 roles:
   - System Architect & AI Agents @ Neuronauts AI
-  - Co-Founder @ Garson AI
 focus:    Healthcare AI · Voice Systems · Agentic Workflows
 languages: Turkish (native) · English (B2)
 ```
@@ -42,7 +41,6 @@ languages: Turkish (native) · English (B2)
 |---|---|---|
 | **Telesekreter** — AI voice appointment booking for hospitals | Retell AI · Twilio · FastAPI | 🔨 Active |
 | **NeuroPharm** — Drug interaction analysis engine | PubMedBERT · OpenFDA · Claude | 🔨 Active |
-| **Garson AI** — Restaurant QR menu + AI voice assistant | Next.js · FastAPI · ElevenLabs | 🚀 Live |
 | **TEKNOFEST 2026** — Healthcare AI (genetic variant classification) | Python · ML | 📋 Prep |
 
 ---
