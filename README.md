@@ -28,7 +28,7 @@ education:
   - Software Engineering @ Istanbul Aydın University  (2023 – present)
   - 42 Istanbul                                        (2025 – present)
 roles:
-  - System Architect & AI Agents @ Neuronauts AI
+  - System Architect & AI Agents Lead @ Neuronauts AI
 focus:    Healthcare AI · Voice Systems · Agentic Workflows
 languages: Turkish (native) · English (B2)
 ```
@@ -39,7 +39,6 @@ languages: Turkish (native) · English (B2)
 
 | Project | Stack | Status |
 |---|---|---|
-| **Telesekreter** — AI voice appointment booking for hospitals | Retell AI · Twilio · FastAPI | 🔨 Active |
 | **NeuroPharm** — Drug interaction analysis engine | PubMedBERT · OpenFDA · Claude | 🔨 Active |
 | **TEKNOFEST 2026** — Healthcare AI (genetic variant classification) | Python · ML | 📋 Prep |
 
@@ -47,7 +46,7 @@ languages: Turkish (native) · English (B2)
 
 ## ◈ Work Experience
 
-**System Architecture & AI Agents** — *Neuronauts AI* `Jan 2026 – Present`
+**System Architect & AI Agents Lead** — *Neuronauts AI* `Jan 2026 – Present`
 > Designing scalable healthcare AI systems; market research, agentic workflow design, multidisciplinary team collaboration.
 
 **IT Intern** — *Arçelik Pazarlama* `Sep 2022 – Jun 2023`
@@ -105,13 +104,13 @@ languages: Turkish (native) · English (B2)
 ## ◈ 42 Istanbul Progress
 
 ```
-libft      ████████████████████  ✓
-ft_printf  ████████████████████  ✓
-minitalk   ████████████████████  ✓
-push_swap  ████████████████████  ✓
-pipex      ████████████████████  ✓
-so_long    ████████░░░░░░░░░░░░  ⚙ in progress
-minishell  ████░░░░░░░░░░░░░░░░  📋 planned
+libft        ████████████████████  ✓
+ft_printf    ████████████████████  ✓
+minitalk     ████████████████████  ✓
+push_swap    ████████████████████  ✓
+pipex        ████████████████████  ✓
+minishell    ████████████░░░░░░░░  ⚙ in progress
+philosopher  ████████░░░░░░░░░░░░  ⚙ in progress
 ```
 
 ---
@@ -119,7 +118,7 @@ minishell  ████░░░░░░░░░░░░░░░░  📋 pl
 ## ◈ Beyond the Code
 
 ```
-🏃 Running   🏊 Swimming   🏓 Table Tennis
+🏃 Running   🏊 Swimming   🏓 Table Tennis   🎹 Piano   🎛️ Music Production
 ```
 
 ---
