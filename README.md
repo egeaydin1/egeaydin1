@@ -40,11 +40,10 @@ languages: Turkish (native) · English (B2)
 
 | Project | Stack | Status |
 |---|---|---|
-| **TEKNOFEST 2026** — Missense variant pathogenicity classifier | XGBoost · LightGBM · SHAP | ⚙ Active — PDR passed |
+| **TEKNOFEST 2026** — Healthcare AI (genomic variant classification) — systems architecture & documentation | Team project · PDR passed | ⚙ Active |
 | **NeuroPharm** — Drug interaction analysis engine | OpenFDA · Claude · Next.js · FastAPI | 🔨 Active |
 | **MediFlow** — Multi-tenant clinic tele-secretary SaaS | Twilio · OpenAI Realtime · Supabase · RAG | 🔨 Active |
-| **[histora](https://github.com/egeaydin1/histora)** — Talk with historical figures | LLM persona engineering · Full-stack | 🚀 Showcase |
-| **[smartteam](https://github.com/egeaydin1/smartteam)** — Project management backend | FastAPI · SQLAlchemy | 🚀 Showcase |
+| **[histora](https://histora.egeaydin1.com.tr)** — Talk with 40 historical figures · [repo](https://github.com/egeaydin1/histora) | LLM persona engineering · TR/EN · Full-stack | 🟢 Live |
 | **[Garson AI](https://github.com/egeaydin1/qrmenu)** — QR menu + AI voice ordering | Voice AI · Next.js | ✓ Bilişim Vadisi GO Path Pre-Incubation |
 
 ---
@@ -65,8 +64,8 @@ languages: Turkish (native) · English (B2)
 ## ◈ Talks & Community
 
 - 🎤 Guest speaker — **"AI Agents in Healthcare"**, Türkiye Yapay Zekâ Topluluğu
-- ⚡ Hackathons: **Voice AI Hackathon** (Freya × fal.ai) · **AImpact Hackathon**
-- 🛠 AI Agents Summit — event organization
+- ⚡ **AImpact Hackathon** participant
+- 🛠 **AI Agents Summit** — event organization
 
 ---
 
@@ -83,9 +82,6 @@ languages: Turkish (native) · English (B2)
 **AI / ML**
 
 ![Claude API](https://img.shields.io/badge/Claude_API-000000?style=flat-square&logo=anthropic&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=flat-square&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-000000?style=flat-square&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-000000?style=flat-square&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_·_Vector_DBs-000000?style=flat-square&logoColor=white)
 
@@ -120,7 +116,7 @@ languages: Turkish (native) · English (B2)
 
 ---
 
-## ◈ 42 Istanbul Progress
+## ◈ 42 Istanbul (2025 – 2026)
 
 ```
 libft        ████████████████████  ✓
@@ -129,8 +125,9 @@ minitalk     ████████████████████  ✓
 push_swap    ████████████████████  ✓
 pipex        ████████████████████  ✓
 minishell    ████████████████████  ✓
-
 ```
+
+*Completed the C core through minishell — parsing, processes, pipes, signals, IPC — then shifted full focus to production AI work.*
 
 ---
 
@@ -157,5 +154,5 @@ minishell    ████████████████████  ✓
 ---
 
 <div align="center">
-<sub>⌘ system architect by day · 42 student by night · always building</sub>
+<sub>⌘ system architect by day · builder by night · always shipping</sub>
 </div>
