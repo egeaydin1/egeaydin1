@@ -27,7 +27,7 @@ based:    Istanbul, Türkiye
 email:    aydin.ege90@gmail.com
 education:
   - Software Development @ Istanbul Aydın University  (2023 – present)
-  - 42 Istanbul                                        (2025 – present)
+  - 42 Istanbul                                        (2025 – 2026)
 roles:
   - Systems Architecture & AI Agents Lead @ Neuronauts AI
 focus:    Healthcare AI · Voice Systems · Agentic Workflows
